@@ -1,34 +1,32 @@
-<h1 align="center">Arthur Perico</h1>
+<h1 align="center">👋 Olá, eu sou o Arthur Perico</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/banner.png" alt="banner" width="100%" />
 </p>
-
----
-
-### 📬 Contato
 
 <p align="center">
   <a href="mailto:salomaoarthur188@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/gmail.png" width="40px" alt="Gmail" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/5531992866512" target="_blank">
-    <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/whatsapp.png" width="40px" alt="WhatsApp" />
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/salomaoo01/" target="_blank">
-    <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/instagram.png" width="40px" alt="Instagram" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### ⚙️ GitHub Stats
+## 🧠 Sobre mim
+
+- 💻 Desenvolvedor focado em Java, Web e algoritmos
+- 🎓 Estudando Ciência da Computação
+- 🚀 Em busca de projetos desafiadores e colaborações
+- 📚 Aprendizado contínuo é meu lema!
+
+---
+
+## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurperico&show_icons=true&theme=dark" width="400px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurperico&layout=compact&theme=dark" width="300px" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arthurperico&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="700px"/>
-</p>

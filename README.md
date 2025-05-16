@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Arthur Perico</h1>
+<h1 align="center">👋 Olá, eu sou o Arthur </h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arthurperico/arthurperico/main/banner.png" alt="banner" width="100%" />
